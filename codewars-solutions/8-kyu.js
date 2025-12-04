@@ -7,7 +7,7 @@ function areYouPlayingBanjo(name) {
 
 
 // tasks 2
-https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript
+// https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript
 // function makeNegative(num) {
 //   return num < 0 ? num : -num;
 // }
@@ -63,7 +63,7 @@ function countPositivesSumNegatives(input) {
 
 
 // tasks 8
-https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript
+// https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript
 function arrayPlusArray(arr1, arr2) {
   let arrSum1 = arr1.reduce((acc, el) => acc + el, 0);
   let arrSum2 = arr2.reduce((acc, el) => acc + el, 0);
